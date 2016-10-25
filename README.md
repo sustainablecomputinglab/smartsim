@@ -1,4 +1,4 @@
-# Smart_Home_Sim: Smart Home Energy Trace Simulator
+# SmartSim: A Device Accurate Smart Home Simulator for Energy Analytics
 
 [Introduction]
 

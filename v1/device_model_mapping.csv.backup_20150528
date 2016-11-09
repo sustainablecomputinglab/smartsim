@@ -1,0 +1,12 @@
+1,2,Dryer,1,5600,5350,0.05,0.5
+1,1,Dryer,1,2050,1950,0.001,0.5
+2,0,GuestBathOutlets,1,1585,1565,0.008,1
+3,2,MasterBathOutlets,0,258,0,0,0.5
+3,1,MasterBathOutlets,0,8,0,0,0.5
+4,4,GuestBathHallLights,0,145,0,0,0.25
+4,3,GuestBathHallLights,0,254,0,0,0.25
+4,2,GuestBathHallLights,0,90,0,0,0.25
+4,1,GuestBathHallLights,0,6,0,0,0.25
+5,3,FurnaceHRV,1,1510,465,0.005,0.33
+5,2,FurnaceHRV,1,360,335,0.02,0.33
+5,1,FurnaceHRV,0,303,0,0,0.33
